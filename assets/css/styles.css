@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+}
+
+.container-foto {
+    min-width: 30%;
+}
+
+.container-datos {
+    min-width: auto;
+}
+
